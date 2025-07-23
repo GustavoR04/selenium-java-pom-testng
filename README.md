@@ -1,5 +1,7 @@
 # Selenium Java POM Base Project
 
+
+fe0131f (agregando banner al archivo readme.md)
 Proyecto base de automatización con Java + Selenium + TestNG usando el patrón Page Object Model (POM).
 
 ## 🧰 Stack utilizado
