@@ -1,0 +1,23 @@
+/.idea/workspace.xml
+/src/main/resources/certificate/
+/src/main/resources/excel
+/logs
+TestLandyPage.iml
+=======
+# Compiled class file
+#*.class
+# Log file
+*.log
+# Package Files #
+*.jar
+*.zip
+*.rar
+*.ser
+*.html
+target
+.idea
+Reports
+screenshot
+screenshots
+target
+.idea
