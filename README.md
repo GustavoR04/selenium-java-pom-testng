@@ -1,7 +1,7 @@
 # Selenium Java POM Base Project
 
 
-![Banner](banner_readme.png)
+![Banner](bannerReadme.png)
 
 Proyecto base de automatización con Java + Selenium + TestNG usando el patrón Page Object Model (POM).
 
