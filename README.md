@@ -1,8 +1,5 @@
 # Selenium Java POM Base Project
 
-<p align="center">
-  <img src="ChatGPT Image 22 jul 2025, 04_42_33 p.m..png" alt="Banner del proyecto" width="100%" />
-</p>
 Proyecto base de automatización con Java + Selenium + TestNG usando el patrón Page Object Model (POM).
 
 ## 🧰 Stack utilizado
